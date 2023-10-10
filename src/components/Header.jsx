@@ -20,7 +20,7 @@ export function Header() {
           </div>
         </div>
         <div className="hidden sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-end">
-          <Button href="#">Kup bilet!</Button>
+          <Button href="https://azureday2024.konfeo.com/pl/groups">Kup bilet!</Button>
         </div>
       </Container>
     </header>
