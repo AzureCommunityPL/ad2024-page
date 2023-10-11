@@ -3,6 +3,8 @@ import clsx from 'clsx'
 
 import '@/styles/tailwind.css'
 
+import GoogleAnalytics from './GoogleAnalytics';
+
 const inter = Inter({
   subsets: ['latin'],
   display: 'swap',
@@ -36,6 +38,7 @@ export default function RootLayout({ children }) {
       )}
     >
       <body className="flex min-h-full">
+        <GoogleAnalytics />
         <div className="flex w-full flex-col">{children}</div>
       </body>
     </html>
