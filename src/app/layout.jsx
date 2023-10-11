@@ -24,7 +24,7 @@ export const metadata = {
     default: 'AzureDay PL 2024 - A community-driven conference',
   },
   description:
-    'At DeceptiConf you’ll learn about the latest dark patterns being developed to trick even the smartest visitors, and you’ll learn how to deploy them without ever being detected.',
+    'Siódma edycja konferencji AzureDay Poland to miejsce w którym pod jednym dachem spotkają się najlepsi eksperci chmurowi w tej części Europy. Dołącz do nich i Ty 15 lutego 2024 w Warszawie',
 }
 
 export default function RootLayout({ children }) {
