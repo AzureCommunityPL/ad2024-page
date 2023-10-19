@@ -1,3 +1,4 @@
+import { CFP } from '@/components/Cfp'
 import { Hero } from '@/components/Hero'
 import { Newsletter } from '@/components/Newsletter'
 import { Schedule } from '@/components/Schedule'
@@ -8,6 +9,7 @@ export default function Home() {
   return (
     <>
       <Hero />
+      <CFP />
       <Sponsors />
     </>
   )
