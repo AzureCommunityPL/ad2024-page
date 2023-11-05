@@ -1,7 +1,6 @@
 import { CFP } from '@/components/Cfp'
 import { Hero } from '@/components/Hero'
 import { Newsletter } from '@/components/Newsletter'
-import Price from '@/components/Price'
 import { Schedule } from '@/components/Schedule'
 import { Speakers } from '@/components/Speakers'
 import { Sponsors } from '@/components/Sponsors'
@@ -12,8 +11,9 @@ export default function Home() {
     <>
       <Hero />
       <CFP />
-      <Organizers />
+
       <Sponsors />
+      <Organizers />
     </>
   )
 }

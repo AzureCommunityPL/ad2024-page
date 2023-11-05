@@ -28,7 +28,7 @@ import waylonHydenImage from '@/images/avatars/waylon-hyden.jpg'
 
 const days = [
   {
-    name: 'Opening Day',
+    name: 'Prelegenci',
     date: 'April 4',
     dateTime: '2022-04-04',
     speakers: [
@@ -190,7 +190,7 @@ export function Speakers() {
             id="speakers-title"
             className="font-display text-4xl font-medium tracking-tighter text-blue-600 sm:text-5xl"
           >
-            Speakers
+            Prelegenci
           </h2>
           <p className="mt-4 font-display text-2xl tracking-tight text-blue-900">
             Learn from the experts on the cutting-edge of deception at the most
