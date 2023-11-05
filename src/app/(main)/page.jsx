@@ -11,7 +11,7 @@ export default function Home() {
     <>
       <Hero />
       <CFP />
-
+      <Speakers />
       <Sponsors />
       <Organizers />
     </>

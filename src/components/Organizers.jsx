@@ -202,7 +202,7 @@ export function Organizers() {
                       {speaker.role}
                     </p>
                     <a href={speaker.ln} target="_blank">
-                    <FontAwesomeIcon icon={faLinkedin} class="w6 h-6" />
+                    <FontAwesomeIcon icon={faLinkedin} class="w-6 h-6" />
                     </a>
                   </div>
                 ))}
