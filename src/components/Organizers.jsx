@@ -21,25 +21,25 @@ const days = [
     speakers: [
       {
         name: "Agnieszka Cent",
-        role: "Tech Lead at M-KOPA",
+        role: "Tech Lead | M-KOPA",
         image: agnieszkaCentImage,
         ln: "https://www.linkedin.com/in/agnieszka-cent/"
       },
       {
         name: "Łukasz Kałużny",
-        role: "Managing Partner at Protopia",
+        role: "Partner Zarządzający | Protopia",
         image: lukaszKaluznyImage,
         ln: "https://www.linkedin.com/in/lukaszkaluzny/"
       },
       {
         name: "Emil Wasilewski",
-        role: "Senior Cloud Domain Architect at EntropyGuru",
+        role: "Prezes Zarządu, Azure Architect | EntropyGuru",
         image: emilWasilewskiImage,
         ln: "https://www.linkedin.com/in/emilwasilewski/"
       },
       {
         name: "Tomasz Wiśniewski",
-        role: "Lead Azure App Development Architect at BlueSoft",
+        role: "Lead Azure App Development Architect | BlueSoft",
         image: tomaszWisniewskiImage,
         ln: "https://www.linkedin.com/in/wisniewskitomasz/"
       }

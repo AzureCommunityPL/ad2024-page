@@ -20,19 +20,19 @@ const days = [
     speakers: [
       {
         name: "Szymon Szczęśniak",
-        role: "CEO at CodeTwo",
+        role: "CEO | CodeTwo",
         image: szymonSzczesniakImage,
         ln: "https://www.linkedin.com/in/szymon-szczesniak-32b09b28/"
       },
       {
         name: "Agnieszka Niezgoda",
-        role: "Senior Data&AI Architect at Microsoft",
+        role: "Senior Data&AI Architect | Microsoft",
         image: agnieszkaNiezgodaImage,
         ln: "https://www.linkedin.com/in/agnieszka-niezgoda/"
       },
       {
         name: "Tomasz Kopacz",
-        role: "Architect at Microsoft",
+        role: "Architect | Microsoft",
         image: tomaszKopaczImage,
         ln: "https://www.linkedin.com/in/tomasz-kopacz-689539/"
       },

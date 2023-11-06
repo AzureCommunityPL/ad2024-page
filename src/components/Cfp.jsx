@@ -38,7 +38,7 @@ export function CFP() {
                 Call for Papers
               </p>
               <p className="mt-4 text-lg tracking-tight text-blue-900">
-                Call for Papers otwarte! Spróbuj swoich sił w roli prelegenta na scenach naszej konferencji. Wypełnij formularz! Czekamy do 15 grudnia!
+                Call for Papers otwarte! Spróbuj swoich sił w roli prelegenta na scenach naszej konferencji. Wypełnij formularz! Czekamy do 30 listopada!
               </p>
             </div>
             <form>
