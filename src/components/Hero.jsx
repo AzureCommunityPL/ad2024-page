@@ -9,18 +9,16 @@ export function Hero() {
       <Container className="relative">
         <div className="mx-auto max-w-2xl lg:max-w-4xl lg:px-12">
           <h1 className="font-display text-5xl font-bold tracking-tighter text-blue-600 sm:text-7xl">
-            AzureDay PL 2024
+            AzureDay Poland 2024
           </h1>
           <div className="mt-6 space-y-6 font-display text-2xl tracking-tight text-blue-900">
             <p>
-              Po krótkiej przerwie powracamy z kolejną, siódmą już edycją konferencji AzureDay Poland.
+            Wszystkich miłośników rozwiązań chmurowych zapraszamy serdecznie już 15 lutego 2024 roku do Warszawy na siódmą edycję naszej konferencji!
+            AzureDay Poland to wydarzenie organizowane od 2016 roku przez społeczność Microsoft Azure User Group Poland przy wsparciu zaprzyjaźnionych organizacji i firm.
+            To miejsce, gdzie ekspercka wiedza łączy się z pasją do dzielenia się nią. Jest to doskała okazja do nawiązania nowych znajomości, wymiany opinii czy zapoczątkowania nowych biznesów czy nowej ścieki kariery.
             </p>
             <p>
-              Zapraszamy serdecznie wszystkich miłośników rozwiązań chmurowych już 15 lutego 2024 roku do Warszawy.
-              W trakcie sprzedaży biletów Early Birds nie ujawnimy więcej szczegółów, ale obiecujemy, że z uwagą przeczytaliśmy wszystkie komentarze i uwagi po przednich edycjach i wiemy, czego oczekujecie od tej konferencji - postaramy się Was nie zawieść.
-            </p>
-            <p>
-              Więcej informacji już wkrótce.
+            Brzmi interesująco? Zapewniamy, że tak będzie!
             </p>
           </div>
           <Button href="https://azureday2024.konfeo.com/pl/groups" className="mt-10 w-full sm:hidden">
