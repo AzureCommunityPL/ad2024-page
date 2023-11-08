@@ -13,6 +13,9 @@ import agnieszkaCentImage from '@/images/avatars/organizers/agnieszka-cent.jpg';
 import lukaszKaluznyImage from '@/images/avatars/organizers/lukasz-kaluzny.jpg';
 import emilWasilewskiImage from '@/images/avatars/organizers/emil-wasilewski.jpg';
 import tomaszWisniewskiImage from '@/images/avatars/organizers/tomasz-wisniewski.jpg';
+import marekGrabarzImage from '@/images/avatars/organizers/MarekGrabarz.jpg';
+import kamilBaczykImage from '@/images/avatars/organizers/kamil-baczyk.jpg';
+import michalSmereczynskiImage from '@/images/avatars/organizers/michal-smereczynski.jpg';
 
 const days = [
   {
@@ -42,8 +45,25 @@ const days = [
         role: "Lead Azure App Development Architect | BlueSoft",
         image: tomaszWisniewskiImage,
         ln: "https://www.linkedin.com/in/wisniewskitomasz/"
-      }
-
+      },
+      {
+        name: "Marek Grabarz",
+        role: "Managing Partner at Protopia",
+        image: marekGrabarzImage,
+        ln: "https://www.linkedin.com/in/grabarz/"
+      },
+      {
+        name: "Kamil Bączyk",
+        role: "Lead Enterprise Security Architect at #BeLikeBaczyk",
+        image: kamilBaczykImage,
+        ln: "https://www.linkedin.com/in/kbaczyk/"
+      },
+      {
+        name: "Michał Smereczyński",
+        role: "Azure Lead Architect at BlueSoft",
+        image: michalSmereczynskiImage,
+        ln: "https://www.linkedin.com/in/smereczynski/"
+      }      
     ]
   },
   //  {
