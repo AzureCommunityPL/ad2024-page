@@ -9,7 +9,6 @@ import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
 import { Container } from '@/components/Container'
 import { DiamondIcon } from '@/components/DiamondIcon'
-import logoMVP from '@/images/logos/mvp.png'
 import szymonSzczesniakImage from '@/images/avatars/speakers/szymon-szczesniak.jpg';
 import agnieszkaNiezgodaImage from '@/images/avatars/speakers/agnieszka-niezgoda.jpg';
 import tomaszKopaczImage from '@/images/avatars/speakers/tomasz-kopacz.jpg';
