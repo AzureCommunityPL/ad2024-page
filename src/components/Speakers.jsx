@@ -9,9 +9,12 @@ import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
 import { Container } from '@/components/Container'
 import { DiamondIcon } from '@/components/DiamondIcon'
+import logoMVP from '@/images/logos/mvp.png'
 import szymonSzczesniakImage from '@/images/avatars/speakers/szymon-szczesniak.jpg';
 import agnieszkaNiezgodaImage from '@/images/avatars/speakers/agnieszka-niezgoda.jpg';
 import tomaszKopaczImage from '@/images/avatars/speakers/tomasz-kopacz.jpg';
+import twanKootImage from '@/images/avatars/speakers/twan-koot.jpg';
+import michielHamersImage from '@/images/avatars/speakers/michiel-hamers.jpg';
 
 const days = [
   {
@@ -36,7 +39,18 @@ const days = [
         image: tomaszKopaczImage,
         ln: "https://www.linkedin.com/in/tomasz-kopacz-689539/"
       },
-
+      {
+        name: "Michiel Hamers",
+        role: "Codesmith | Ordina",
+        image: michielHamersImage,
+        ln: "https://www.linkedin.com/in/michielhamers"
+      },
+      {
+        name: "Twan Koot",
+        role: "Principal Expert Microsoft Azure | Ordina",
+        image: twanKootImage,
+        ln: "https://www.linkedin.com/in/twan-koot-a813a8b7/"
+      },
     ],
   }
 ]
