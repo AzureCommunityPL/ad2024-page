@@ -6,7 +6,7 @@ import logoProtopia from '@/images/logos/protopia.svg'
 
 const sponsors = [
   { name: 'Bluesoft', logo: logoBluesoft },
-  { name: 'Protopia', logo: logoProtopia },
+//  { name: 'Protopia', logo: logoProtopia },
 ]
 
 export function Sponsors() {
